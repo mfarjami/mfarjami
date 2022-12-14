@@ -4,7 +4,6 @@
 It's been more than a few years since I started learning Python, and after that I got to know Django and continued my path, and in the meantime, using modules and libraries in Python made me progress and learn better in this way so that I can To improve myself day to day and try to be better.
 
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 - 🔭 I’m currently working on **Python & Django Developer**
 - 🌱 I’m currently learning **Devops**
