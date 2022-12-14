@@ -3,8 +3,9 @@
 
 It's been more than a few years since I started learning Python, and after that I got to know Django and continued my path, and in the meantime, using modules and libraries in Python made me progress and learn better in this way so that I can To improve myself day to day and try to be better.
 
-<!--
 **mfarjami/mfarjami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
 
 Here are some ideas to get you started:
 
