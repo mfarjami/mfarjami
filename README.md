@@ -15,7 +15,7 @@ It's been more than a few years since I started learning Python, and after that 
 - 🤔 I’m looking for help with **Devops**
 - 📫 How to reach me: mohammad.farjami.dev@gmail.com
 - ⚡ Fun fact: Just do it now.
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mohammad-farjami-673154202/))
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/mohammad-farjami-673154202))
 - <!--
 
 Here are some ideas to get you started:
