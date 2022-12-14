@@ -4,7 +4,7 @@
 It's been more than a few years since I started learning Python, and after that I got to know Django and continued my path, and in the meantime, using modules and libraries in Python made me progress and learn better in this way so that I can To improve myself day to day and try to be better.
 
 
-
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 - 🔭 I’m currently working on **Python & Django Developer**
 - 🌱 I’m currently learning **Devops**
@@ -14,7 +14,8 @@ It's been more than a few years since I started learning Python, and after that 
 - 📫 How to reach me: mohammad.farjami.dev@gmail.com
 - ⚡ Fun fact: Just do it now.
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com//in/mohammad-farjami-673154202/)
-- <!--
+ 
+<!--
 
 Here are some ideas to get you started:
 - 😄 Pronouns: ...
