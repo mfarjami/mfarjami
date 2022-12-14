@@ -1,8 +1,6 @@
                                       Hi there 👋, I'm Mohammad Farjami
-          
-
-                                         **Python & Django Developer**
-                                         
+       
+       
 It's been more than a few years since I started learning Python, and after that I got to know Django and continued my path, and in the meantime, using modules and libraries in Python made me progress and learn better in this way so that I can To improve myself day to day and try to be better.
 
 
@@ -15,7 +13,7 @@ It's been more than a few years since I started learning Python, and after that 
 - 🤔 I’m looking for help with **Devops**
 - 📫 How to reach me: mohammad.farjami.dev@gmail.com
 - ⚡ Fun fact: Just do it now.
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/mohammad-farjami-673154202)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] My Linkdin: (https://www.linkedin.com/mohammad-farjami-673154202)
 - <!--
 
 Here are some ideas to get you started:
